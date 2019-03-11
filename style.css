@@ -1,0 +1,42 @@
+  .red-text {
+    color: rgb(204, 0, 255);
+  }
+
+  h2 {
+    font-family: Lobster, monospace;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+
+  .thick-green-border {
+    border-color: rgb(71, 133, 168);
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+  .smaller-image {
+    width: 100px;
+  }
+
+  .silver-background {
+    background-color: rgb(190, 162, 236);
+    margin: 50px 25px 25px 50px;
+    padding: 50px 25px 25px 50px;
+    border-color: rgb(112, 80, 189);
+    border-width: 5px;
+    border-style: solid;
+    border-radius:15px;
+  }
+
+  #cat-photo-form {
+    margin: 50px 25px 25px 50px;
+    padding: 50px 25px 25px 50px;
+    border-color: rgb(95, 184, 219);
+    border-width: 5px;
+    border-style: solid;
+    border-radius:15px;
+  }
